@@ -3,9 +3,9 @@ Line 2 updated step7
 Line 3 neww
 Line 4 new
 Line 5 neww
-Line 6
+Line 6 new
 Line 5 updated step7
-Line 8
+Line 8 new
 Line 9
 Line 10
 
