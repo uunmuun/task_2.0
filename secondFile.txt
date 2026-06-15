@@ -5,6 +5,11 @@ Line 4
 Line 5
 Line 6
 Line 7 modified in git_1
+Line 3 modified in git_2
+Line 4
+Line 5
+Line 6
+Line 7 modified in git_2
 Line 8
 Line 9
 Line 10
